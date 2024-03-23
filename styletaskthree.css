@@ -1,0 +1,156 @@
+.prince {
+    color: darkgoldenrod;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.home {
+    color: white;
+    margin-left: 10%;
+}
+
+.about {
+    color: white;
+    margin-left: 3%;
+
+}
+
+.service {
+    color: white;
+    margin-left: 3%;
+
+}
+
+.design {
+    color: white;
+    margin-left: 3%;
+
+}
+
+.contact {
+    color: white;
+    margin-left: 3%;
+}
+
+body {
+    background-image: url(sunset-1373171_1280.jpg);
+    background-size: cover;
+}
+
+.search {
+    position: relative;
+    float: right;
+    font-weight: bold;
+
+
+}
+
+.sch {
+    border-style: solid;
+    background-color: darkgoldenrod;
+    border-radius: 4px;
+}
+
+.web {
+    position: relative;
+    left: 4%;
+    top: 200px;
+    color: white;
+    
+}
+
+.lorem {
+    color: white;
+    position: relative;
+    left: 4%;
+    top: 190px;
+}
+
+.join {
+    position: relative;
+    left: 4%;
+    top: 200px;
+    border-radius: 7px;
+    background-color: darkgoldenrod;
+    width: 10%;
+    font-weight: bold;
+}
+
+form {
+    float: right;
+    position: relative;
+    border-style: hidden;
+    background-color:black;
+    width: 20%;
+    height: 466px;
+    right: 2%;
+    
+}
+.login{
+    position: absolute;
+    border-style: solid;
+    background-color:white;
+    border-radius: 4px;
+    width: 50%;
+    height: 7%;
+    text-align:center ;
+    left: 60px;
+    font-size:x-large;
+    top: 3.8%;
+    color:darkgoldenrod;
+}
+
+.user {
+    position: absolute;
+    top: 25%;
+    left: 21%;
+    height: 5%;
+}
+
+.password {
+    position: absolute;
+    top: 36%;
+    left: 21%;
+    height: 5%;
+}
+
+.button {
+    background-color: darkgoldenrod;
+    border-radius: 7px;
+    width: 30%;
+    position: absolute;
+    top: 49%;
+    left: 37%;
+    height: 7%;
+    font-size: medium;
+}
+
+.p-one {
+    position: absolute;
+    top: 40%;
+    color: white;
+    left: 58px;
+    text-align: center;
+    top: 60%;
+
+}
+
+.p-two {
+    position: absolute;
+    top: 50%;
+    color: white;
+    left: 88px;
+    top: 80%;
+
+
+}
+
+.icons {
+    position: absolute;
+    top: 89%;
+    left: 33%;
+}
+
+.dev {
+    color: darkgoldenrod;
+}
